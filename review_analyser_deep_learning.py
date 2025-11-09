@@ -1,5 +1,4 @@
 """
-train_distilbert.py
 Fine-tune distilbert-base-uncased on a reviews dataset.
 Expected CSV with columns: "review", "label"
 Where label is 0 (negative) or 1 (positive) (or you can map more classes).
